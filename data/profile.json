@@ -60,19 +60,29 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Auxiliar de T.I / Uniaraxá",
+      "period": "Jul 2025 - Até o momento",
+      "description": "SQL Server. C#. JavaScript. React.js. ASP.NET MVC. ASP.NET CORE MVC "
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Desenvolvedor Back End Júnior / Bit Pagg",
+      "period": "Ago 2021 - Mai 2023",
+      "description": "SQL Server. C#. JavaScript."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Desenvolvedor de Sistemas Pleno / Zema",
+      "period": "Jun 2021 - Ago 2021",
+      "description": "SQL Server. C#. JavaScript. Angular JS."
+    },
+    {
+      "name": "Analista de Sistemas Júnior / Zema",
+      "period": "Fev 2019 - Jun 2021",
+      "description": "SQL Server. C#. JavaScript. Angular JS."
+    },
+    {
+      "name": "ADesenvolvedor de aplicativos mobile (Java/Kotlin)",
+      "period": "Ago 2017 - Dez 2017",
+      "description": "SQL Server. Java. Kotlin. Android Studio."
     }
   ]
 }
